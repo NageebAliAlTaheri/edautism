@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "440484752099",
+    "firebase_url": "https://dataedautism-default-rtdb.firebaseio.com",
+    "project_id": "dataedautism",
+    "storage_bucket": "dataedautism.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440484752099:android:e2db00dd7cc61c7c3f33d6",
+        "android_client_info": {
+          "package_name": "com.edautism.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440484752099-u9erdtg01oc4td1n3bk82qoh7cq4grso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edautism.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "440484752099-hgali1ks983t4hv6jjkv6vaj484o1t90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7FL6NHhzzpeQPcdNWHf5FycVdlORGRtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111004069408316686101",
+              "client_type": 3
+            },
+            {
+              "client_id": "440484752099-4s846quuirv6eed4d1cf5efo76ft0ckq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.autism.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440484752099:android:d893419a2eef6bdf3f33d6",
+        "android_client_info": {
+          "package_name": "com.edautism2.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440484752099-n4eb9cae6r2mt90g0tsa0alj32fc69b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edautism2.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "440484752099-hgali1ks983t4hv6jjkv6vaj484o1t90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7FL6NHhzzpeQPcdNWHf5FycVdlORGRtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111004069408316686101",
+              "client_type": 3
+            },
+            {
+              "client_id": "440484752099-4s846quuirv6eed4d1cf5efo76ft0ckq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.autism.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

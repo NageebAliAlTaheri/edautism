@@ -1,0 +1,6 @@
+NSCalendarsUsageDescription = "in order to upload data, this app requires permission to access the Calenser";
+NSFaceIDUsageDescription = "in order to upload data, this app requires permission to access the Biometrics";
+NSBluetoothAlwaysUsageDescription = "in order to upload data, this app requires permission to access the Bluetooth";
+NSContactsUsageDescription = "in order to upload data, this app requires permission to access the Contacts";
+NSMicrophoneUsageDescription = "in order to upload data, this app requires permission to access the Microphone";
+PermissionGroupNotification = "in order to upload data, this app requires permission to access the Notification";
